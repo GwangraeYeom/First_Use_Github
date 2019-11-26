@@ -2,4 +2,5 @@ void main(char args)
 {
 printf(%d, "Hello world");
 printf(%d, "Modified");
+printf(%d, "Modified2");
 }
