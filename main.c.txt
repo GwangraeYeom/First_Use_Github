@@ -1,6 +1,5 @@
 void main(char args)
 {
 printf(%d, "Hello world");
-printf(%d, "Modified");
-printf(%d, "Modified2");
+printf("연결 수립이 후 파일)"
 }
