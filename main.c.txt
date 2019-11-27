@@ -1,5 +1,5 @@
 void main(char args)
 {
 printf(%d, "Hello world");
-printf("연결 수립이 후 파일)"
+printf("Senond change)"
 }
