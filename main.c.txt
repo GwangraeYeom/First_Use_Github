@@ -1,11 +1,5 @@
 void main(char args)
 {
 printf(%d, "Hello world");
-printf("Senond change)"
-<<<<<<< HEAD
-printf("Third change")
+printf(%d, "Modified");
 }
-=======
-change from github
-}
->>>>>>> 357d177aaf8bb46d559e25bcfe5990f2bc6c21a7
